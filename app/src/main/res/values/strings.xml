@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SplashScreenActivity</string>
+
+    <string name="hello_world">HELLO WORLD</string>
+    <string name="hello_world_italian">CIAO MONDO</string>
+    <string name="hello_world_spanish">HOLA MUNDO</string>
+    <string name="hello_world_tamil">ஹலோ வேர்ல்ட்</string>
+    <string name="hello_world_french">BONJOUR LE MONDE</string>
+    <string name="hello_world_german">HALLO WELT</string>
+
+
+</resources>
